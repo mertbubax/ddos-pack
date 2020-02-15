@@ -1,6 +1,3 @@
-/*
- * This is released under the GNU GPL License v3.0, and is allowed to be used for commercial products ;)
- */
 #include <unistd.h>
 #include <time.h>
 #include <sys/types.h>
